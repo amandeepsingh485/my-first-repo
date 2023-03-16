@@ -6,10 +6,15 @@ No need to change any configuration. just keep clicking next and install.
 4. goto gitbash and run: ssh-keygen -t ed25519 -C "amandeepsingh21@youremail.com"
 5. add the public key to your account (check step 3 video)
 6. create folder, do a gitbash from there and run: git init
-7. add origin using: git remote add origin https://github.com/amandeepsingh485/myfirstrepo.git
 
+7. git remote -v > to check if remote repo is set-up
+add origin using: git remote add origin https://github.com/amandeepsingh485/myfirstrepo.git
+
+8. to clone a repository: git clone https://github.com/amandeepsingh485/my-first-repo.git
 to check status:
-git status
+to create a new branch: git branch branch-name
+to checkout that branch: git checkout branch-name
+
 
 to add file: git add filename or git add . (for all files)
 
