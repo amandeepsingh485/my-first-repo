@@ -1,0 +1,9 @@
+1. install gitbash from: https://git-scm.com/download/win
+No need to change any configuration. just keep clicking next and install.
+2. download git cheat sheet from: https://education.github.com/git-cheat-sheet-education.pdf
+3. get ssh key: https://www.youtube.com/watch?v=iWs34DO_H2M
+
+4. goto gitbash and run: ssh-keygen -t ed25519 -C "amandeepsingh21@youremail.com"
+5. add the public key to your account (check step 3 video)
+6. create folder, do a gitbash from there and run: git init
+7. add origin using: git remote add origin https://github.com/amandeepsingh485/myfirstrepo.git
