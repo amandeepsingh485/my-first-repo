@@ -19,3 +19,11 @@ to checkout that branch: git checkout branch-name
 to add file: git add filename or git add . (for all files)
 
 to commit changes: git commit -m "your message"
+
+to push this branch to remote: git push -u origin branch-name
+
+then you go and create a pull request
+
+to merge another branch or to resolve a conflict: https://www.youtube.com/watch?v=xNVM5UxlFSA
+
+to pull the latest changes : git pull https://github.com/amandeepsingh485/myfirstrepo.git
