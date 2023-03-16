@@ -7,3 +7,10 @@ No need to change any configuration. just keep clicking next and install.
 5. add the public key to your account (check step 3 video)
 6. create folder, do a gitbash from there and run: git init
 7. add origin using: git remote add origin https://github.com/amandeepsingh485/myfirstrepo.git
+
+to check status:
+git status
+
+to add file: git add filename or git add . (for all files)
+
+to commit changes: git commit -m "your message"
